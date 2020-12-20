@@ -1,0 +1,411 @@
+
+/* CSS Inicio */
+
+#textoInicio{
+  position: relative;
+  margin-right: 15%;
+  margin-left: 15%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  text-align: justify;
+}
+
+.imagen_hondaCafeRacerModificada{
+  width: 100%;
+}
+
+.imagen_bmwR100MonoPlazaInicio{
+    width: 50%;
+    float: right;
+}
+
+.imagen_bmwK100Drangons{
+  margin-top: 15%;
+  padding-top: 15%;
+  float: right;
+
+}
+
+
+
+
+/*css principal*/
+
+body{
+    background-color: black;
+    color: white;
+    font-family: Verdana;
+    
+    
+    background-image: url("cafeRacerInicios.jpg");
+    background-attachment: fixed;
+    
+    
+    }
+    
+    p{
+    	background-color: black;
+    	margin-top: 50px;
+    
+    }
+
+header{
+    position: relative;
+    top: -53px;
+    text-align: center; 
+}
+
+.menu{
+        float: none; 
+        list-style-type: none;
+        padding: 5%;
+        margin-top: -1%;
+        margin-left: 10%;
+        border-color: aquamarine;
+        border-width: 1%;
+        border-style: outset;
+}
+
+ul.menu{
+    background-color: black;
+    list-style-type: none;
+    overflow: hidden ;
+    
+}
+
+li.menu{
+    float: left;
+    text-align: center;
+    display: block;
+  	padding: 18px 16px;
+  	color: white;
+  	background-color: black;
+  	
+  	
+}
+
+li.menu.active{
+    background-color: grey;
+}
+
+li.menu.inactive{
+  padding: 1%;
+    background-color: black ;
+}
+
+.imagen_logo{
+  position: relative;
+  margin-top: 4%;
+  width: 100%;
+  height: auto;
+  margin-left: -90%;
+}
+
+.imagen_cabecera{
+  position: relative;
+    margin-left: 30%;
+    margin-top: -15%;
+    width: 700px;
+    height: 300px;
+    margin-right: 20px;
+}
+
+li a{
+    display: block;
+    color: whitesmoke;
+    text-align: center;
+    text-decoration: none;
+}
+
+li a:hover{
+    color: rgb(250, 250, 250);
+}
+
+footer{
+	background-color: #E6DFDF;
+	border-top: 3px solid #333232;
+	margin: 20px;
+	padding: 15px;
+	font-family: verdana;
+	overflow: hidden;
+	width: 100%;
+}
+
+.columna{
+  float: left;
+  margin-top: 5%;
+  margin-right: 5%;
+}
+
+
+
+/* CSS pagina motos */
+
+#tr{
+  color: black;
+  
+}
+
+
+/*css Proyectos activos*/
+/*_________________*/
+
+.imagen_cafeRacerDreamsBmw{
+  width:30%;
+  float:right;
+  padding-top: 5%;
+  
+}
+
+/* CSS COCHES */
+
+.imagenBmwCoche {
+  background-image: url("img/bmw30cs.jpg");
+  background-attachment: fixed;
+  overflow: scroll;
+}
+
+
+
+
+
+
+
+
+/*css pagina inicio*/
+/*_________________*/
+
+.imagen_principal{
+  margin-top: 7%;
+  width: 800px;
+  height: auto;
+  margin-right: 10px;
+}
+
+
+
+
+footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 1%;
+  margin-top: 4%;
+  
+
+}
+
+
+ /*css de la pagina de inicio */
+/*______________________________*/
+
+ #textobiografico{
+  position: relative;
+  margin-right: 15%;
+  margin-left: 15%;
+  margin-top: 5%;
+  text-align: justify;
+}
+
+
+.imagen_cafeRacerInicios{
+  margin-top: auto;
+  margin-left: 15%;
+  width: 70%;
+  height: auto;
+  
+}
+
+.imagen_cafeRacerInicios2{
+  margin-top: auto;
+  margin-left: 5%;
+  width: 40%;
+  height: auto;
+}
+
+.imagen_cafeRacerDreamsBmw{
+  margin: auto;
+  width: 70%;
+  height: auto;
+  display: block;
+}
+
+.imagen_BmwR100RsOriginal{
+  margin-top: auto;
+  margin-left: 150px;
+  width: 70%;
+  height: auto;
+  display: block;
+}
+
+
+ /* css motos */
+/*_____________________________*/
+
+.textoPaginaMotos{
+  text-align: justify;
+  padding: 15px;
+  width:auto;
+  margin-left: 10%;
+
+}
+
+div {
+  background-image: url("images/.imagen_hondaCafeRacerModificada.png");
+  background-attachment: fixed;
+  overflow: scroll;
+}
+
+
+
+
+/*css de las tablas */
+table {
+  /*color fondo */
+background-color: black;
+/*color letra */
+color: white;
+/*color borde tabla */
+border: 1px solid black;
+margin-left: 5%;
+margin-top: 5%;
+margin-bottom: 5%;
+border-width: medium;
+text-align: center;
+padding: 15px;
+width: auto;
+}
+
+h2 {
+  text-align:center;
+  margin-top: 8%;
+}
+
+th{
+  color: rgb(7, 79, 92);
+}
+
+td{
+  color: white;
+  width:auto;
+  margin-top: 5%;
+}
+
+
+
+
+
+
+
+/*css pagina contacto */
+/*___________________*/
+
+/* formulario */  
+input[type=text], select, textarea  {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical;
+    font-family : inherit;
+}
+ 
+input[type= enviar] .contacto{
+    padding: 12px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family : inherit;
+}
+  
+input[type=enviar]:hover .contacto {
+    font-family : inherit;
+}
+  
+#parrafocontacto {
+    text-align: initial;
+    text-align: center; 
+}
+
+.contenido{
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 5%;
+}
+
+
+
+ 
+/* redes sociales del footer */
+.rsfacebook{
+  width: 3%;
+  height: auto;
+  padding: 0%;
+  margin-bottom: 0.5%;
+}
+
+.rsinstagram{
+  width: 4%;
+  height: auto;
+  margin-right: 1%;
+}
+ 
+/* Contacto */
+
+#nombre{
+  width: 20%;
+  padding-left: 10%;
+}
+
+
+
+#apellidos{
+  width: 55%;
+}
+
+.imagenLogoContacto{
+  float: left;
+  margin-left: 1%;
+  margin-bottom: 1px;
+  text-align: justify;
+}
+   
+/* Proyectos Activos */
+
+.cuadrito{
+	border: 1px solid #E6DFDF;
+	margin: 30px;
+	padding-left: 20px;
+	width: 30%;
+	height: 175px;
+	font-family: Arial, Helvetica, sans-serif;
+  float: left;
+	
+}
+
+.cuadrito h2{
+	color: #88ecec;
+	padding-top: 0px;
+}
+
+.cuadrito a{
+  text-decoration: none;
+  color: #88ecec;
+}
+
+.cuadrito p{
+	font-size: 0.75em;
+}
+
+#facil{
+	color: #88ecec;
+	float: left;
+	padding: 10px;
+	
+}
+
+.cuadrito img{
+	float: left;
+}
