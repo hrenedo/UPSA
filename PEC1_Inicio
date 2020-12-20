@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Inicio</title>
+	<meta name="generator" content="BBEdit 13.5" />
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="css/style.css">
+	
+</head>
+<body>
+	<header>
+	
+			<a href="inicio.html"><img src="img/cafeRacerLogo.jpg" alt="logo" class="imagen_logo" style="width:100px;height:100px;"> </a>
+                    <div id="menu"> 
+                    <nav>
+                        <ul class="menu">
+                            <li class="menu inactive"><a  href="inicio.html">Inicio</a></li>
+                            <li class="menu inactive"><a  href="historia.html">Historia</a></li>
+                            <li class="menu inactive"><a  href="motos.html">Motos</a></li>
+                            <li class="menu inactive"><a  href="proyectosActivos.html"> Proyectos activos</a></li>
+                            <li class="menu inactive"><a  href="Normativa europea.html" > Normativa europea</a></li>
+                            <li class="menu inactive"><a  href="presupuesto.html"> Presupuesto </a></li>
+                            <li class="menu inactive"><a  href="coches.html"> Coches </a></li>
+                            <li class="menu inactive"><a  href="contacto.html"> Contacto </a></li>
+                    </ul>
+                    </nav>
+                </div>
+	
+	
+	
+	</header>
+	
+    <h1>Cafe Racer HRS</h1>
+
+        <h2>
+            El espíritu
+        </h2>
+
+                <div id="textoInicio">
+                    
+                    <p>
+                        Ciertas motocicletas tienen un alma que les hace distinta a las demás; en algunas es posible distinguirla a primera vista, en otras, sin embargo, se encuentra oculta, impresionando su cambio de imagen una vez transformadas.
+                    </p>
+
+                    
+                      
+                      
+                    
+                      <img src="img/hondaCafeRacerModificada.jpg" alt="hondaCafeRacerModificada" usemap="#hondaCafeRacerModificada" width="100%" height="100%">
+
+                      <map name="hondaCafeRacerModificada">
+                        <area shape="rect" coords="200,80,850,600" alt="hondaCafeRacerModificada" href="motos.html">
+                      </map>
+
+
+
+                        <h2>Taller</h2>
+
+                        <p> Cafe Racer HRS te asesorará y cumplirá con tus expectativas tanto de diseño como de calidad. Abarcamos desde modificaciones sencillas hasta las más elaboradas, consiguiendo una personalización única.</p>
+                        
+                        <img src="img/bmwR100MonoPlazaInicio.jpg" alt="bmwR100MonoPlazaInicio" width="50%" height="50%">
+
+                        <img src="img/bmwK100Dragons.jpg"  alt="bmwK100Dragons" class="imagen_bmwK100Dragons" width="50%" height="50%"> 
+
+
+
+                        
+                        
+                        
+                        
+               
+            </div>
+            
+
+            
+           
+            			
+            
+            	
+            	
+            	
+            			
+            			
+                
+                        <footer>
+                            <div class="columna">
+                                <h3>Contactar con nosotros</h3>
+                                <p>Llámenos al <a href="#">00 800 55677899</a> </p>
+                                <p>Escribanos a través del <a href="contacto.html">formulario de contacto</a> </p>
+                                <p>Venga a conocernos a una <a href="#">oficina local</a> </p>
+                                
+                            </div>
+
+                            <p>
+                                <a href="www.instagram.com"><img src="img/logoInstagram.png" alt="logo" class="imagenLogoContacto" style="width:30px;height:30px;"> </a>
+                                Instagram: @caferacergram
+                            </p>
+                    
+                            <p>
+                                <a href="PEC1ProyectoCafeRacer.html"><img src="img/logoFacebook.png" alt="logo" class="imagenLogoContacto"
+                                style="width:30px;height:30px;" > </a>
+                                Facebook: Cafe Racer HRS
+                            </p>
+                    
+                            <p>
+                                <a href="PEC1ProyectoCafeRacer.html"><img src="img/logoYoutube.jpg" alt="logo" class="imagenLogoContacto"
+                                style="width:30px;height:30px;" > </a>
+                                YouTube: Cafe Racer HRS
+                            </p>
+                    
+                            <p>
+                                <a href="PEC1ProyectoCafeRacer.html"><img src="img/logoEmail.png" alt="logo" class="imagenLogoContacto"
+                                style="width:30px;height:30px;" ></a>
+                                Email: caferacerhrssalamanca@gmail.com
+                            </p>
+                            
+                        
+                        
+                        
+            	
+            
+            
+            
+            
+            
+            
+
+</body>
+</html>
